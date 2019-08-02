@@ -1,3 +1,10 @@
 ## Multiplicar app
 
-prueba descripció en readme
+prueba descripción en readme
+
+
+ejecutar este comando
+
+````
+npm install
+```
